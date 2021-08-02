@@ -2,7 +2,7 @@
 
 # Coral CNT Uptake Test 1 (20210727)
 
-# Exposure protocol
+# Setup overview
 
 Placed 2 corals (*Astrangia poculata*) into individual 100 ml glass jars (dimensions) with .22 um PES membrane filtered artificial seawater (company and info).  
 
