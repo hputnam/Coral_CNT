@@ -1,4 +1,4 @@
-Date,Time,Lab_member,Trial_ID,Coral_ID,Temperature_C,Salinity_psu,pH_mv,Light,Survivorship,Water_change,Notes
+Date,Time,Lab_member,Trial_ID,Coral_ID,Temperature_C,Salinity_psu,pH_mv,Light,Appearance,Water_change,Notes
 20210722,,Thorson,,1,26.5,30.62,-45.8,,good,yes,Used engineering thermometer
 20210722,,Thorson,,2,26.5,32.60,-44.6,,good,yes,Used engineering thermometer
 20210722,,Thorson,,3,26.5,31.81,-44.8,,good,yes,Used engineering thermometer
@@ -27,13 +27,13 @@ Date,Time,Lab_member,Trial_ID,Coral_ID,Temperature_C,Salinity_psu,pH_mv,Light,Su
 20210802,,Thorson,20210727,2,23.5,29.38,-41.2,,ok,yes,"Measurements taken ~1 hr after collection, used engineering thermometer for temp"
 20210802,,Thorson,20210727,3,23.6,29.86,-40.1,,ok,yes,"Measurements taken ~1 hr after collection, used engineering thermometer for temp"
 20210802,,Thorson,20210727,4,23.6,29.64,-40.0,,ok,yes,"Measurements taken ~1 hr after collection, used engineering thermometer for temp"
-20210803,,Thorson,20210727,1,,,,,,,
-20210803,,Thorson,20210727,2,,,,,,,
-20210803,,Thorson,20210727,3,,,,,,,
-20210803,,Thorson,20210727,4,,,,,,,
-20210803,,Thorson,20210803,5,,,,,,,
-20210803,,Thorson,20210803,6,,,,,,,
-20210803,,Thorson,20210803,7,,,,,,,
-20210803,,Thorson,20210803,8,,,,,,,
-20210803,,Thorson,20210803,9,,,,,,,
-20210803,,Thorson,20210803,10,,,,,,,
+20210803,,Thorson,20210727,1,23.05,32.28,-63.1,,good,yes,Some polyps out
+20210803,,Thorson,20210727,2,23.18,32.19,-55.2,,ok,yes,
+20210803,,Thorson,20210727,3,23.09,32.35,-53.0,,ok,yes,Forgot to save salinity sample
+20210803,,Thorson,20210727,4,23.28,,-60.9,,ok,yes,
+20210803,,Thorson,20210803,5,,,-62.4,,great!,,
+20210803,,Thorson,20210803,6,,,-61.2,,great!,,
+20210803,,Thorson,20210803,7,,,-59.2,,great!,,
+20210803,,Thorson,20210803,8,,,-60.8,,great!,,
+20210803,,Thorson,20210803,9,,,-61.4,,great!,,
+20210803,,Thorson,20210803,10,,,-60.5,,great!,,
