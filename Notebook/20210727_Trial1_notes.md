@@ -6,7 +6,7 @@
 
 Placed 2 corals (*Astrangia poculata*) into individual 100 ml glass jars (dimensions) with .22 um PES membrane filtered artificial seawater (company and info).  
 
-Added CNT lipid sensor at 1mg/L for Coral 1 and 5mg/L for Coral 2. Corals 3 and 4 received no CNTs and were kept as controls.
+On 20210727 we added CNT lipid sensor at 1mg/L for Coral 1 and 5mg/L for Coral 2. Corals 3 and 4 received no CNTs and were kept as controls.
 
 Placed corals into the 27°C incubator
 
@@ -15,6 +15,10 @@ Placed corals into the 27°C incubator
 We used 1mg/L and 5mg/L concentrations of nanotubes today on 2 corals, and both got a signal after 30 minutes! The 5mg/L was a lot stronger. We also have a reference background seawater signal.
 
 We didn't see much with the inverted scope because the colony blocked a lot of light. We are planning to use a cell culture/tissue slurry in the next experiment to examine where the CNTs have gone.
+
+We will extract the tissue from the corals and image it under the microscope 8 days post-exposure (20210804).
+
+We will then throw the corals away :'(
 
 # Possible problems
 
