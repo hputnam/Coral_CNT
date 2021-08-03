@@ -3,7 +3,37 @@ Date,Time,Lab_member,Trial_ID,Coral_ID,Temperature_C,Salinity_psu,pH_mv,Light,Su
 20210722,,Thorson,,2,26.5,32.60,-44.6,,good,yes,Used engineering thermometer
 20210722,,Thorson,,3,26.5,31.81,-44.8,,good,yes,Used engineering thermometer
 20210722,,Thorson,,4,26.5,32.01,-45.9,,good,yes,Used engineering thermometer
-,,,20210727,,,,,,,,
-,,,20210727,,,,,,,,
-,,,20210727,,,,,,,,
-,,,20210727,,,,,,,,
+20210726,,Thorson,,1,27.26,32.62,-75.6,100,good,yes,"Top shelf, turned incubator down from 27 C to 26 C"
+20210726,,Thorson,,2,27.22,32.15,-67.8,100,good,yes,"Top shelf, turned incubator down from 27 C to 26 C"
+20210726,,Thorson,,3,25.65,29.42,-52.8,"62, 48",good,yes,"Bottom shelf, 48 with plexiglass, turned incubator down from 27 C to 26 C"
+20210726,,Thorson,,4,25.23,29.71,-54.3,"62, 48",good,yes,"Bottom shelf, 48 with plexiglass, turned incubator down from 27 C to 26 C"
+20210727,,Thorson,20210727,1,,28.32,-38.4,,good,yes,Measurements taken a few hours after collection
+20210727,,Thorson,20210727,2,,29.10,-36.0,,good,yes,Measurements taken a few hours after collection
+20210727,,Thorson,20210727,3,,29.19,-35.6,,good,yes,Measurements taken a few hours after collection
+20210727,,Thorson,20210727,4,,29.27,-37.5,,good,yes,Measurements taken a few hours after collection
+20210728,,Thorson,20210727,1,24.34,28.79,-35.7,,good,yes,
+20210728,,Thorson,20210727,2,24.63,29.06,-34.4,,good,yes,
+20210728,,Thorson,20210727,3,24.13,29.26,-39.5,,good,yes,
+20210728,,Thorson,20210727,4,24.31,29.47,-37.2,,good,yes,
+20210729,,,20210727,1,,,,,,yes,"MG did water change, no WQ"
+20210729,,,20210727,2,,,,,,yes,"MG did water change, no WQ"
+20210729,,,20210727,3,,,,,,yes,"MG did water change, no WQ"
+20210729,,,20210727,4,,,,,,yes,"MG did water change, no WQ"
+20210730,,Thorson,20210727,1,24.98,29.65,-47.8,,ok,yes,Turned incubator down from 26 C to 25 C
+20210730,,Thorson,20210727,2,24.84,29.54,-43.8,,ok,yes,Turned incubator down from 26 C to 25 C
+20210730,,Thorson,20210727,3,24.62,29.53,-46.1,,ok,yes,Turned incubator down from 26 C to 25 C
+20210730,,Thorson,20210727,4,24.51,29.68,-46.6,,ok,yes,Turned incubator down from 26 C to 25 C
+20210802,,Thorson,20210727,1,23.7,29.68,-42.5,,good,yes,"Measurements taken ~1 hr after collection, used engineering thermometer for temp"
+20210802,,Thorson,20210727,2,23.5,29.38,-41.2,,ok,yes,"Measurements taken ~1 hr after collection, used engineering thermometer for temp"
+20210802,,Thorson,20210727,3,23.6,29.86,-40.1,,ok,yes,"Measurements taken ~1 hr after collection, used engineering thermometer for temp"
+20210802,,Thorson,20210727,4,23.6,29.64,-40.0,,ok,yes,"Measurements taken ~1 hr after collection, used engineering thermometer for temp"
+20210803,,Thorson,20210727,1,,,,,,,
+20210803,,Thorson,20210727,2,,,,,,,
+20210803,,Thorson,20210727,3,,,,,,,
+20210803,,Thorson,20210727,4,,,,,,,
+20210803,,Thorson,20210803,5,,,,,,,
+20210803,,Thorson,20210803,6,,,,,,,
+20210803,,Thorson,20210803,7,,,,,,,
+20210803,,Thorson,20210803,8,,,,,,,
+20210803,,Thorson,20210803,9,,,,,,,
+20210803,,Thorson,20210803,10,,,,,,,
