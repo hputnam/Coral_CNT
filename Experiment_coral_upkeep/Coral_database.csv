@@ -1,5 +1,11 @@
-Date_started_in_incubator,Trial_ID,Coral_ID,Notes
-,20210727,1,
-,20210727,2,
-,20210727,3,
-,20210727,4,
+Date_started_in_incubator,Trial_ID,Coral_ID,CNT exposure,Outcome,Notes
+20210721,20210727,1,1 mg/L,,Out of water for ~2 min but did fine
+20210721,20210727,2,5 mg/L,,Out of water for ~2 min but did fine
+20210721,20210727,3,control,,Out of water for ~2 min but did fine
+20210721,20210727,4,control,,
+20210803,20210803,5,,,
+20210803,20210803,6,,,
+20210803,20210803,7,,,
+20210803,20210803,8,,,
+20210803,20210803,9,,,
+20210803,20210803,10,,,
