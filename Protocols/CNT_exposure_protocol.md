@@ -2,8 +2,18 @@
 
 # Coral CNT Exposure Protocol
 
-Placed 2 corals (*Astrangia poculata*) into individual 100 ml glass jars with .22 um PES membrane filtered artificial seawater (company and info).
+# Materials
+- 2 100 mL beakers
+- Carbon NanoTubes solution combined with filtered seawater, usually 5 mg/L concentration
+- gloves
 
-Added CNT lipid sensor at 1mg/L for Coral 1 and 5mg/L for Coral 2. Corals 3 and 4 received no CNTs and were kept as controls.
-
-Placed corals into the 27°C incubator
+# Protocol
+1. Pick 3-6 recognizable polyps on each treatment coral you're using, and 1 polyp on each control coral. (HIGHLY RECOMMENDED to take pictures of the polyps and label them by # so you can look at that for each subsequent measurement.)
+2. Take a background signal of each polyp and save the graph with the coral and polyp number. Repeat this for each treatment and control coral.
+3. Place all CNT treatment corals into one 100 mL beaker. Mix .22 um PES membrane filtered artificial seawater with enough CNT solution to cover the treatment corals, at a 5 mg/L concentration, and add that to the beaker.
+4. Place control corals into one 100 mL beaker, and cover with .22 um PES membrane filtered artificial seawater.
+5. BE VERY CAREFUL not to cross contaminate the CNT exposed and non-CNT exposed corals; change gloves after touching CNT exposed corals or water.
+6. Let both beakers of corals sit for 30 minutes (or longer for better signal?). Consider doing repeat exposures every 24 hours to maintain a strong signal.
+7. Dispose of any water or materials that have touched the CNTs properly.
+8. Rinse both control and treatment corals with filtered seawater over the waste container, to remove any exterior CNTs.
+9. Place corals into individual jars in the incubator.

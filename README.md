@@ -10,15 +10,15 @@ To quantify lipids in live corals under thermal stress
 #### Steps:
 Produce reliable data on the uptake and longevity of Carbon NanoTube (CNT) lipid sensors in Astrangia colonies and cells
 
-Extract tissue to examine intracellular lipid content in Astrangia
+Examine intracellular lipid content in Astrangia through tissue extractions
 
-Compare the uptake and longevity of Carbon NanoTube (CNT) lipid sensors in Pocillopora and Montipora coral colonies and cells
+Compare the uptake and longevity of Carbon NanoTube (CNT) lipid sensors in *Pocillopora* and *Montipora* coral colonies and cells
 
 Compare the CNT lipid sensor to traditional lipid quantification methods
 
-Test lipid content of bailing out polyp micropropagules through settlement process (Pocillopora is the most reliable for now)
+Test lipid content of bailing out polyp micropropagules through settlement (*Pocillopora* is the most reliable for now)
 
-Test Astrangia larvae through settlement process
+Test Astrangia larvae through settlement
 
 Quantify lipids in live corals under thermal stress, and base a proposal on this
 
