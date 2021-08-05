@@ -18,7 +18,7 @@
 - Sacrifice and image 1 coral's tissue a day on days 2, 3, and 4.
 
 # Day 1:
-- Use airbrush to make slurry (find the protocol/video [here](https://hputnam.github.io/Putnam_Lab_Notebook/Coral_Tissue_Removal_protocol/]) and bring slurry tubes over and pipette on slide in engineering.
+- Use airbrush to make slurry (find the protocol/video [here](https://hputnam.github.io/Putnam_Lab_Notebook/Coral_Tissue_Removal_protocol/) and bring slurry tubes over and pipette on slide in engineering.
 - Measurements at 1:15 pm and coral 5 was sacrificed to make tissue slurry.
 
 # Day 2:
@@ -43,6 +43,6 @@ On day 2 (20210804) there was a strong signal from some NanoTubes in the tissue 
 
 # Next steps
 
-We will hopefully look at *Pocillopora* or heat stressed *Astrangia* to compare these to the results from Trial 1 and Trial 2/Experiment 1.
+We will hopefully look at *Pocillopora* or heat stressed *Astrangia* to compare these to the results from Trial 1 and Trial 2.
 
 I SHOULD clean *Astrangia* of algae next time to minimize algal autofluorescence!
