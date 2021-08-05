@@ -47,8 +47,8 @@ Date,Time,Lab_member,Trial_ID,Coral_ID,Temperature_C,Salinity_psu,pH_mv,Light,Ap
 20210804,1300,Thorson,20210803,8,22.80,32.55,-23.9,,good,yes,
 20210804,1300,Thorson,20210803,9,23.11,32.49,-32.7,,good,yes,
 20210804,1300,Thorson,20210803,10,22.63,32.40,-33.9,,good,yes,
-20210805,,Thorson,20210803,6,,,,,,,
-20210805,,Thorson,20210803,7,,,,,,,
-20210805,,Thorson,20210803,8,,,,,,,
-20210805,,Thorson,20210803,9,,,,,,,
-20210805,,Thorson,20210803,10,,,,,,,
+20210805,,Thorson,20210803,6,,32.27,,,good,,Removed from incubator
+20210805,,Thorson,20210803,7,22.43,32.14,-25.1,,good,yes,
+20210805,,Thorson,20210803,8,23.14,32.49,-29.1,,good,yes,
+20210805,,Thorson,20210803,9,,32.48,,,good,,Removed from incubator
+20210805,,Thorson,20210803,10,22.53,32.44,-35.8,,good,yes,

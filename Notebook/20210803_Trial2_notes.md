@@ -1,12 +1,12 @@
 # Coral_CNT
 
-# Coral CNT Controlled Experimet 1 (20210803)
+# Coral CNT Trial 2 (20210803)
 
 # Setup overview
 ### Experimental design
 - Placed 6 corals, 3 treatment and 3 control *Astrangia poculata*, into individual 100 ml glass jars with ~24 degress C .22 um PES membrane filtered artificial seawater.  
 
-### Exposure
+### Exposure (Day 0)
 - Added CNT lipid sensor at 5mg/L for Corals 5-7 at 3:30pm. Corals 8-10 were exposed to ~40 mL filtered seawater with no CNTs for 30 minutes and were kept as controls.
 - Bring smaller containers for the 30 min. exposure; balance stress and using the least amount of CNT solution possible.
 - Possibly use multiple exposures and measure a few hours later to keep the CNTs in the coral (possibly peak at 6 hrs).
@@ -17,9 +17,17 @@
 - We followed and measured the same distinct polyps in this experiment. We should find a good way to normalize this (or could use multiple locations and average the signals for one organism).
 - Sacrifice and image 1 coral's tissue a day on days 2, 3, and 4.
 
-# Day 2:
-- Use airbrush to make slurry and bring slurry tubes over and pipette on slide in engineering.
+# Day 1:
+- Use airbrush to make slurry (find the protocol/video [here](https://hputnam.github.io/Putnam_Lab_Notebook/Coral_Tissue_Removal_protocol/]) and bring slurry tubes over and pipette on slide in engineering.
 - Measurements at 1:15 pm and coral 5 was sacrificed to make tissue slurry.
+
+# Day 2:
+- Corals 6 and 9 were sacrificed to make slurry at 1:45, after signals were taken
+- MG has data/figs
+
+# Day 3:
+- Corals 7 and 10 were sacrificed to make slurry at 11:30 ?????
+- HP came in to look at cells under scope
 
 # Possible problems
 
