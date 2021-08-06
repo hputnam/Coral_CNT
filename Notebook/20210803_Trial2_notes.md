@@ -4,7 +4,7 @@
 
 # Setup overview
 ### Experimental design
-- Placed 6 corals, 3 treatment and 3 control *Astrangia poculata*, into individual 100 ml glass jars with ~24 degress C .22 um PES membrane filtered artificial seawater.  
+- Placed 6 SYMBIOTIC corals, 3 treatment and 3 control *Astrangia poculata*, into individual 100 mL glass jars with ~24 degress C .22 um PES membrane filtered artificial seawater.  
 
 ### Exposure (Day 0)
 - Added CNT lipid sensor at 5mg/L for Corals 5-7 at 3:30pm. Corals 8-10 were exposed to ~40 mL filtered seawater with no CNTs for 30 minutes and were kept as controls.
@@ -26,8 +26,9 @@
 - MG has data/figs
 
 # Day 3:
-- Corals 7 and 10 were sacrificed to make slurry at 11:30 ?????
-- HP came in to look at cells under scope
+- Measured signal with laser probe around 11:45
+- Corals 7 and 10 were cut in half, and the halves with polyps 1-3 and 1 respectively were sacrificed to make tissue slurry at 12:30
+- HP and AH came in to look at cells under scope
 
 # Possible problems
 
@@ -41,8 +42,14 @@ We can't image the cells and get a spectra when they're moving.
 
 On day 2 (20210804) there was a strong signal from some NanoTubes in the tissue slurry from Coral 5 (MG has data).
 
+MG overlaid the spectra and images (from trial 1 and corals 5 and 6 from trial 2) and found there was mostly autofluorescence not NanoTubes.
+
 # Next steps
 
-We will hopefully look at *Pocillopora* or heat stressed *Astrangia* to compare these to the results from Trial 1 and Trial 2.
+We could look at *Pocillopora* to see if the NanoTubes have entered the coral cells, since there would be less algae on the tissue like the *Astrangia* have.
+
+OR we could go back to looking at aposymbiotic *Astrangia* in case the intracellular symbiotic algae hides the signal from NanoTubes.
+
+We could look at heat stressed *Astrangia* to compare these to the results from Trial 1 and Trial 2.
 
 I SHOULD clean *Astrangia* of algae next time to minimize algal autofluorescence!
