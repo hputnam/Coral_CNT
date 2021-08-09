@@ -6,13 +6,13 @@ Date_started_in_incubator,Trial_ID,Coral_ID,CNT_exposure,Outcome,Notes
 20210803,20210803,5,5 mg/L,"Tissue extracted 20210804, bleached, and thrown out",Some mucus after 30 min CNT exposure
 20210803,20210803,6,5 mg/L,"Tissue extracted 20210805, bleached, and thrown out",Some mucus after 30 min CNT exposure
 20210803,20210803,7,5 mg/L,"Tissue extracted 20210806, bleached, and thrown out",Some mucus after 30 min CNT exposure
-20210803,20210803,8,control,,Some mucus after 30 min CNT exposure
+20210803,20210803,8,control,Returned to Astrangia tub in CBLS 20210809,Some mucus after 30 min CNT exposure
 20210803,20210803,9,control,"Tissue extracted 20210805, bleached, and thrown out",Some mucus after 30 min CNT exposure
 20210803,20210803,10,control,"Tissue extracted 20210806, bleached, and thrown out",Some mucus after 30 min CNT exposure
-20210809,20210809,11,,,Pocillopora acuta from frag 0010 or 0013
-20210809,20210809,12,,,Pocillopora acuta from frag 0010 or 0014
-20210809,20210809,13,,,Pocillopora acuta from frag 0010 or 0015
-20210809,20210809,14,,,Pocillopora acuta from frag 0010 or 0016
-20210809,20210809,15,,,Pocillopora acuta from frag 0010 or 0017
-20210809,20210809,16,,,Pocillopora acuta from frag 0010 or 0018
-20210809,,,,,Single Astrangia polyp
+20210809,20210809,1,5 mg/L,,Pocillopora acuta from frag 0010
+20210809,20210809,2,5 mg/L,,Pocillopora acuta from frag 0010
+20210809,20210809,3,5 mg/L,,Pocillopora acuta from frag 0010
+20210809,20210809,c1,control,,Pocillopora acuta from frag 0013
+20210809,20210809,c2,control,,Pocillopora acuta from frag 0013
+20210809,20210809,c3,control,,Pocillopora acuta from frag 0013
+20210809,,11,5 mg/L,,"Astrangia, we’re removing 1 polyp"

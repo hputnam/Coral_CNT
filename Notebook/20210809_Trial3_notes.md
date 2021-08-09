@@ -4,24 +4,26 @@
 
 # Setup overview
 ### Experimental design
-- Placed 6 *Pocillopora acuta* corals, 3 treatment and 3 control, into individual 100 mL glass jars with ~27 degree C .22 um PES membrane filtered artificial seawater.
+- Placed 6 *Pocillopora acuta* corals, 3 treatment (1-3) and 3 control (c1-c3), into individual 100 mL glass jars with ~27 degree C .22 um PES membrane filtered artificial seawater.
 
 ### Exposure (Day 0: 20210809)
-- Cut frags to approximately ____ inches????
-- Picked 3 polyps to track in treatment frags, and 1 in each control.
-- Added CNT lipid sensor at 5mg/L in ~ ___ mL filtered seawater for Corals 11-13 at 12:45pm. Corals 14-16 were exposed to ~ __ mL filtered seawater with no CNTs for 30 minutes and were kept as controls.
-- Placed corals into the 27°C incubator.
+- Cut frags to approximately 1x1 inches
+- Pointed laser at whole frags, because their polyps are way too small to focus on.
+- Added CNT lipid sensor mixed with filtered seawater at 5 mg/L to corals 1-3 in individual wells in a 24 well plate, at ~12:45pm. Corals c1-c3 were exposed to ~1 mL filtered seawater with no CNTs for 30 minutes and were kept as controls.
+- We also exposed an aposymbiotic *Astrangia* colony (Coral 11) to 5 mg/L CNTs in a 100 mL beaker, in order to cut off 1 whole polyp, homogenize it, and look at it under the microscope to minimize algal autofluorescence interference.
+- During the exposure period the plate and beaker were put in the incubator. All corals were rinsed with filtered seawater afterwards.
+- Placed corals into the 27°C incubator (changed since *Astrangia* experiments since the *P. acuta* are coming from warmer water in water table 1).
 
 ### Measurements
-- We followed and measured the same distinct polyps in this experiment. We should find a good way to normalize this (or could use multiple locations and average the signals for one organism).
 - Sacrifice and image 1 coral's tissue a day on days 2, 3, and 4.
+- When one polyp from the *Astrangia* comes out far enough to clip it, we will clip it, grind it up, and image it under the microscope.
 
 # Day 1:
 - Use airbrush to make slurry (find the protocol/video [here](https://hputnam.github.io/Putnam_Lab_Notebook/Coral_Tissue_Removal_protocol/) and bring slurry tubes over and pipette on slide in engineering.
-- Measurements at __ pm and corals __ were sacrificed to make tissue slurry.
+- Measurements at 12:15 pm and Corals 1 and c1 were sacrificed to make tissue slurry.
 
 # Day 2:
-- Corals __ were sacrificed to make slurry at __, after signals were taken.
+- Corals 2 and c2 were sacrificed to make slurry at __, after signals were taken.
 - MG has data/figs.
 
 # Day 3:
@@ -35,3 +37,5 @@
 
 
 # Next steps
+
+DR suggested blasting a coral frag with the laser for 20 minutes to bleach the chlorophyll and minimize autofluorescence, to only look at CNTs. MG may try this Thursday (day 3).
