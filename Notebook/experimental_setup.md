@@ -21,6 +21,8 @@
 4. Place corals into individual 100 mL glass jars filled most of the way with .22 um PES membrane filtered artificial seawater.  
 5. Label all jars with a number, "live," and "CNT only."
 6. 12 jars can fit on the bottom shelf of the incubator.
+7. Ethanol, wipe out, and DI rinse any jars after throwing their corals out.
+8. All Putnam materials in engineering are stored in the drawer and cabinet to the right of the incubator!
 
 # Problems
 When we used the glass bowls the temperature of the water on the top and bottom shelves of the incubator (first set at 27°C) were pretty different (~27 vs. 25.5 respectively).
