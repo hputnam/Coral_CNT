@@ -52,8 +52,8 @@ Date,Time,Lab_member,Trial_ID,Coral_ID,Temperature_C,Salinity_psu,pH_mv,Light,Ap
 20210805,,Thorson,20210803,8,23.14,32.49,-29.1,,good,yes,
 20210805,,Thorson,20210803,9,,32.48,,,good,,Removed from incubator
 20210805,,Thorson,20210803,10,22.53,32.44,-35.8,,good,yes,
-20210810,1445,Thorson,20210809,2,24.57,32.53,-63.5,,good,yes,Pocillopora
-20210810,1445,Thorson,20210809,3,24.40,32.29,-61.8,,good,yes,Pocillopora
-20210810,1445,Thorson,20210809,c2,24.30,32.37,-63.5,,good,yes,Pocillopora
-20210810,1445,Thorson,20210809,c3,24.47,32.18,-63.2,,good,yes,Pocillopora
-20210810,1445,Thorson,20210809,11,24.78,36.89,-46.3,,ok,yes,
+20210810,1445,Thorson,20210809,2,24.57,32.53,-63.5,,good,yes,"Pocillopora, sal and pH taken 30 min after collection in AQ room"
+20210810,1445,Thorson,20210809,3,24.40,32.29,-61.8,,good,yes,"Pocillopora, sal and pH taken 30 min after collection in AQ room"
+20210810,1445,Thorson,20210809,c2,24.30,32.37,-63.5,,good,yes,"Pocillopora, sal and pH taken 30 min after collection in AQ room"
+20210810,1445,Thorson,20210809,c3,24.47,32.18,-63.2,,good,yes,"Pocillopora, sal and pH taken 30 min after collection in AQ room"
+20210810,1445,Thorson,20210809,11,24.78,36.89,-46.3,,ok,yes,Sal and pH taken 30 min after collection in AQ room

@@ -26,10 +26,11 @@ Test for possible toxicity of CNTs using micropropagules
 
 ## Collaborators:
 
-Gravely  
-Thorson   
-Putnam  
-Roxbury  
+M. Gravely  
+A. Thorson   
+H. Putnam  
+D. Roxbury
+H. Reich
 
 ## Target Species:
 _Astrangia poculata, Pocillopora acuta, Montipora capitata_
