@@ -1,28 +1,30 @@
 # Coral_CNT
 
 ## Goals:
-To examine the uptake and longevity of Carbon NanoTube (CNT) lipid sensors in coral colonies and cells
+To examine the uptake of Carbon NanoTube (CNT) lipid sensors in coral colonies and cells
 
 To compare the CNT lipid sensor to traditional lipid quantification methods
 
 To quantify lipids in live corals under thermal stress
 
 #### Steps:
-Produce reliable data on the uptake and longevity of Carbon NanoTube (CNT) lipid sensors in Astrangia colonies and cells
+Produce reliable data on the uptake and longevity of Carbon NanoTube (CNT) lipid sensors in *Astrangia* colonies and cells
 
-Examine intracellular lipid content in Astrangia through tissue extractions
+Develop strategy to mitigate autofluorescence under microscope
+
+Examine intracellular lipid content in *Astrangia* through tissue extractions
 
 Compare the uptake and longevity of Carbon NanoTube (CNT) lipid sensors in *Pocillopora* and *Montipora* coral colonies and cells
 
-Compare the CNT lipid sensor to traditional lipid quantification methods
-
 Quantify lipids in live corals under thermal stress, and base a proposal on this
+
+Compare the CNT lipid sensor to traditional lipid quantification methods
 
 Test for possible toxicity of CNTs
 
 Test lipid content of bailing out polyp micropropagules through settlement (*Pocillopora* is the most reliable for now) (if possible)
 
-Test Astrangia larvae through settlement (if possible)
+Test *Astrangia* larvae through settlement (if possible)
 
 ## Collaborators:
 

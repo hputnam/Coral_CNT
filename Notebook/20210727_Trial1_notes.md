@@ -16,7 +16,7 @@ We used 1mg/L and 5mg/L concentrations of nanotubes today on 2 corals, and both 
 
 We didn't see much with the inverted scope because the colony blocked a lot of light. We are planning to use a cell culture/tissue slurry in the next experiment to examine where the CNTs have gone.
 
-We will extract the tissue from the corals and image it under the microscope 8 days post-exposure (20210804).
+We will airbrush the tissue from the corals and image it under the microscope 8 days post-exposure (20210804).
 
 We will then throw the corals away :'(
 

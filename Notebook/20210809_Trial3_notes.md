@@ -25,11 +25,9 @@
 - *Astrangia* in incubator wasn't clipped because its polyps weren't out.
 
 # Day 2:
-- Corals 2 and c2 were sacrificed to make slurry at __, after signals were taken.
-
-# Day 3:
-- Measured signal with laser probe around __.
-- Corals __ were cut in half, and the halves with polyps 1-3 and 1 respectively were sacrificed to make tissue slurry at __.
+- MG measured signal with laser probe in the morning.
+- Corals 2, c2, 3, and c3 were sacrificed to make slurry at 3:30.
+- Astrangia (coral 11) is in CBLS AQ room where a polyp can still be snipped.
 
 # Possible problems
 
@@ -45,3 +43,5 @@ There did seem to be less autofluorescence.
 DR suggested blasting a coral frag with the laser for 20 minutes to bleach the chlorophyll and minimize autofluorescence, to only look at CNTs. MG may try this Thursday (day 3).
 
 HP suggested using *Aiptasia* larvae to study uptake without interference.
+
+In the future we should take pictures of the corals throughout the experiment to show survival and health (appearance) when treated with NanoTubes. We could also do color scoring to quantitatively assess health.
