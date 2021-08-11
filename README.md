@@ -16,13 +16,13 @@ Compare the uptake and longevity of Carbon NanoTube (CNT) lipid sensors in *Poci
 
 Compare the CNT lipid sensor to traditional lipid quantification methods
 
-Test lipid content of bailing out polyp micropropagules through settlement (*Pocillopora* is the most reliable for now)
-
-Test Astrangia larvae through settlement
-
 Quantify lipids in live corals under thermal stress, and base a proposal on this
 
-Test for possible toxicity of CNTs using micropropagules
+Test for possible toxicity of CNTs
+
+Test lipid content of bailing out polyp micropropagules through settlement (*Pocillopora* is the most reliable for now) (if possible)
+
+Test Astrangia larvae through settlement (if possible)
 
 ## Collaborators:
 
