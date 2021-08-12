@@ -56,4 +56,9 @@ Date,Time,Lab_member,Trial_ID,Coral_ID,Temperature_C,Salinity_psu,pH_mv,Light,Ap
 20210810,1445,Thorson,20210809,3,24.40,32.29,-61.8,,4,yes,"Pocillopora, sal and pH taken 30 min after collection in AQ room"
 20210810,1445,Thorson,20210809,c2,24.30,32.37,-63.5,,4,yes,"Pocillopora, sal and pH taken 30 min after collection in AQ room"
 20210810,1445,Thorson,20210809,c3,24.47,32.18,-63.2,,4,yes,"Pocillopora, sal and pH taken 30 min after collection in AQ room"
-20210810,1445,Thorson,20210809,11,24.78,36.89,-46.3,,3,yes,Sal and pH taken 30 min after collection in AQ room
+20210810,1445,Thorson,,11,24.78,36.89,-46.3,,3,yes,Sal and pH taken 30 min after collection in AQ room
+20210811,1545,Thorson,20210809,2,,,,,5,,
+20210811,1545,Thorson,20210809,3,,,,,5,,
+20210811,1545,Thorson,20210809,c2,,,,,5,,
+20210811,1545,Thorson,20210809,c3,,,,,5,,
+20210811,1545,Thorson,,11,,,,,,,

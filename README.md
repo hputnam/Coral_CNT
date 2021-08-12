@@ -14,7 +14,7 @@ Develop strategy to mitigate autofluorescence under microscope
 
 Examine intracellular lipid content in *Astrangia* through tissue extractions
 
-Compare the uptake and longevity of Carbon NanoTube (CNT) lipid sensors in *Pocillopora* and *Montipora* coral colonies and cells
+Compare the uptake and longevity of Carbon NanoTube (CNT) lipid sensors in different species of coral colonies and cells
 
 Quantify lipids in live corals under thermal stress, and base a proposal on this
 

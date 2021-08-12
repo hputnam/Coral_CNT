@@ -20,13 +20,13 @@
 
 # Day 1:
 - Measurements at ~1 pm and Corals 1 and c1 were sacrificed to make tissue slurry.
-- Use airbrush to make slurry (find the protocol/video [here](https://hputnam.github.io/Putnam_Lab_Notebook/Coral_Tissue_Removal_protocol/) and bring slurry in 1.5 mL tubes to engineering and pipette on slide. Used DI water while airbrushing instead of filtered seawater.
+- Used airbrush to make slurry (find the protocol/video [here](https://hputnam.github.io/Putnam_Lab_Notebook/Coral_Tissue_Removal_protocol/) and brought slurry in 1.5 mL tubes to engineering to pipette on slide. Used DI water while airbrushing instead of filtered seawater.
 - MG used a longer exposure time under the microscope to get rid of the autofluorescence.
 - *Astrangia* in incubator wasn't clipped because its polyps weren't out.
 
 # Day 2:
 - MG measured signal with laser probe in the morning.
-- Corals 2, c2, 3, and c3 were sacrificed to make slurry at 3:30.
+- Corals 2, c2, 3, and c3 were sacrificed to make slurry at 3:30 (this time using seawater from c2, DI water is bad for this use!).
 - Astrangia (coral 11) is in CBLS AQ room where a polyp can still be snipped.
 
 # Possible problems
