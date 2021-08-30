@@ -42,6 +42,8 @@ There did seem to be less autofluorescence.
 
 DR suggested blasting a coral frag with the laser for 20 minutes to bleach the chlorophyll and minimize autofluorescence, to only look at CNTs. MG may try this Thursday (day 3).
 
-HP suggested using *Aiptasia* larvae to study uptake without interference.
+HP suggested using *Aiptasia* and/or *Astrangia* larvae to study uptake without algal interference.
 
-In the future we should take pictures of the corals throughout the experiment to show survival and health (appearance) when treated with NanoTubes. We could also do color scoring to quantitatively assess health.
+DR suggested using fixed (paraformaldehyde?) and thinly sliced tissue samples with confocal Raman or NIR fluorescence to show within polyp location of CNTs.
+
+Possibly do another exposure next week (20210816) and fix them, decalcify, and ship them for dehydration, embedding and sectioning.

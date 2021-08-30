@@ -50,8 +50,8 @@ MG overlaid the spectra and images (from trial 1 and corals 5 and 6 from trial 2
 
 We will look at *Pocillopora* to see if the NanoTubes have entered the coral cells, since there would be less algae on the tissue like the *Astrangia* have!!
 
-OR we could go back to looking at aposymbiotic *Astrangia* in case the intracellular symbiotic algae hides the signal from NanoTubes. (We are doing this only with a single polpy!)
+OR we could go back to looking at aposymbiotic *Astrangia* in case the intracellular symbiotic algae hides the signal from NanoTubes. (We are doing this only with a single polyp!)
 
 We could look at heat stressed *Astrangia* to compare these to the results from Trial 1 and Trial 2.
 
-I SHOULD clean *Astrangia* of algae next time to minimize algal autofluorescence!
+We should clean *Astrangia* of algae next time to minimize algal autofluorescence!
