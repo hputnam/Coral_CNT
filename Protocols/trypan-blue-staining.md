@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wednesday, July 13
-date: 2022-07-11
+date: 2022-07-13
 categories: CNT
 tags: CNT_protocol
 ---
