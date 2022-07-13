@@ -5,7 +5,7 @@ date: 2022-07-11
 categories: CNT
 tags: CNT_protocol
 ---
-# Tryan blue staining protocol
+# Trypan blue staining protocol
 * author: Lauren Zane
 * date updated: 20220713
 
@@ -14,7 +14,7 @@ tags: CNT_protocol
 * liquid waste container for PBS
 * 20 uL pipette/tips
 * 1000 uL pipette/tips
-* glass Pastuer pipettes/bulbs (one for 1X PBS only, other "dirty" for tissue slurry)
+* glass Pastuer pipettes/bulbs (one for 1X PBS only, other "dirty" for tissue slurry, different sets for CNT and LIVE corals)
 * 1.5mL Eppendorf tube (2 per coral microfragment)
 * small sterile petri dishes (1 per coral microfragment)
 * sterile forceps
@@ -43,4 +43,4 @@ tags: CNT_protocol
 10. transfer 10uL of stained cell suspension to hemocytometer
 11. count and record the total number of coral cells and number that stain blue
 12. clean slide with a Kimwipe and EtOH into specific biohazard waste container
-13. rub toothbrush on a paper towel with ethanol, then stir in rinse cup 
+13. rub toothbrush on a paper towel with ethanol, then stir in rinse cup
