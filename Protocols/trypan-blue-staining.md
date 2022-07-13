@@ -34,7 +34,7 @@ tags: CNT_protocol
   * notes: brush with the scrubbing force of brushing teeth, dip toothbrush bristles into petri dish
 3. collect tissue slurry using "dirty" Pasteur pipette, deposit in 1.5mL Eppendorf tubes
 4. use Pasteur pipette to gently break up large chunks of tissue
-5. centrifuge at 500 rcf
+5. centrifuge at 500 rcf for 3 minutes
 6. use dirty Pasteur pipette, remove supernatant
 7. resuspend tissue in 1mL PBS using 1000uL pipette
   * notes: it is necessary to take all precautions to remove seawater as seawater can react with the Trypan blue stain
