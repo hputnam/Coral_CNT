@@ -46,8 +46,8 @@ tags: protocol
 
 1. in CBLS aquarium, place coral colonies into glass jars with tank water and lightly close lid
 2. in the Roxbury lab, use sterile bone cutters to make *P. acuta* microfragments 0.3-0.5cm in length and place 1 coral per well in labeled 12-well tissue culture plate
-3 . rinse each microfragment twice with filtered, sterile artificial seawater and use Pasteur pipette to fill well with ~2 mL filtered, sterile ASW or GL-6 solution
-4. place 12-well plates into reptile egg incubators with the lid on, in the dark at 27°C, for the desired incubation time
+3 . rinse each microfragment twice with filtered, sterile artificial seawater and use the quantitative pipettes to fill well with ~2 mL filtered, sterile ASW or GL-6 solution at the desired concentration
+4. place 12-well plates into benchtop incubators with the lid on, in the dark at 27°C, for the desired incubation time
 
 ### probe measurement
 
@@ -60,8 +60,3 @@ tags: protocol
 8. PAM fluorescence
 8. sacrifice microfragment for Trypan blue staining 
 
-## areas for improvement
-
-1. introducing a stirring system for corals
-2. incubating with AI lights on 12hr light: 12hr dark cycle
-2. PAM for symbiont fluorescence
