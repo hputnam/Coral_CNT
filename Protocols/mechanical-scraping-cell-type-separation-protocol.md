@@ -33,6 +33,8 @@ tags: protocol
 3. collect tissue slurry using pipette, transfer to labelled 1.5mL Eppendorf tube
 4. use Pasteur pipette to mix the solution and break up any large chunks of tissue
 5. centrifuge at 100 rcf for 10 minutes to separate cells with symbionts from cells without symbionts
+    * note: situate tubes in microcentrifuge with the hinge facing outward so that the cell pellet forms on the side of the tube with the hinge. This minimizes the likelihood that you accidentally disturb the cell pellet and resuspend cells with symbionts into the supernatant
 6. remove supernatant containing cells without symbionts and transfer to new Eppendorf tube
     * discard Eppendorf tube containing pellet with coral cells containing symbionts
 7. after separating cells with symbionts from cells without symbionts, move onto other cell staining protocols, like the Trypan blue stain protocol or the Annexin V staining protocol
+
