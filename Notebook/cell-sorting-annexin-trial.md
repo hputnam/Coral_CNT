@@ -1,4 +1,4 @@
-## Cell sorting: Annexin V trial 
+## Cell sorting: Annexin V trial notes
 
 ## date(s): 20220727-20220728
 
@@ -6,24 +6,29 @@
 
 
 ## goals: 
-- the goal of this trial is to establish cell sorting and staining protocols 
-- 
+- the goal of this trial is to establish cell sorting and staining protocols with Annexin V
 
 ## protocol
 1. On 20220727, Lauren selected n=2 coral colonies (ID = 29, 30) from the CBLS Aquarium and transported them to the Roxbury Lab in small glass jars. 
 
 
-2. Four fragments (two large, two small) were incubated for 24 hours at 26°C in either artificial sea water (n=4) or 2 uM hydrogen peroxide (n=4).
+2. Four fragments (two large, two small) were incubated for 24 hours at 26°C in either artificial sea water (n=4) or 2 uM hydrogen peroxide (n=4) in 2 mL of solution in a 24-well plate. Fragments from Coral ID 29 were used for control samples in ASW while Coral ID 30 fragments were treated with 2mM H2O2.
 
-3. On 20220728, Lauren and Sophie will follow the Annexin V staining protocol. 
+3. On 20220728, corals in artificial seawater still had polyps out while corals incubated in hydrogen peroxide had visible tissue loss and tissue pooling in the well. The wells also appeared to have parts of the coral skeleton on the bottom of the well. 
 
-4. Coral cells will be harvested with mechanical scraping by a toothbrush into Petri dishes filled with 1mL PBS.
+4. Coral cells were harvested from the corals incubated with seawater by mechanical scraping with a toothbrush. Cells were scraped into Petri dishes filled with 2mL PBS and then transfered into a 1.5mL Eppendorf tube. Coral cells from corals incubated with H2O2 were pipetted from wells as most of the tissue had sloughed off into the well. 
 
-5. Coral cells with symbionts/symbionts will be pelleted out via centrifugation for 5 minutes at 100 RCF.
+5. H2O2 treated coral cells were centrifuged at 3000rpm for 3 minutes and resuspended in 1mL PBS.
 
-6. Sophie and Lauren will follow the Annexin V manufacturers staining protocol.
+6. Coral cells with symbionts/symbionts from both treatments were be pelleted out via centrifugation for 10 minutes at 100 RCF.
 
-7. Sophie will train Lauren on the [Nexcelom Cellometer](https://github.com/hputnam/Coral_CNT/blob/main/Protocols/Nexcelom%20Cellometer%20protocol.md)
+7. Coral cells in the supernatant were then transferred to a new, clean Eppendorf tube.
 
-Data can be found [here](https://docs.google.com/spreadsheets/d/1vY60uvgc90qz1uIv1rq8PuRnQ7wF_T4h9Cx1oxeLb7g/edit#gid=0)
+8. Sophie used the Nexcelom Cellometer to record the cell density. The cell density for a 1.5mL fragment was about 2.73 x 10^6 cells per mL, which is about the cell density required for the Annexin V staining protocol.
+
+9. Sophie and Lauren followed the Annexin V manufacturers staining protocol for all 1.5cm long fragments, but we were unable to see the Annexin stain for apotosis and did not continue imaging for the remainder of the samples.
+
+10. While we were unsuccessful in staining cells with Annexin V, we determined that a 1.5 cm long fragment is necessary for the cell density needed for the Annexin V staining protocol. The week of 20220801, Sophie and I will experiment with using the AOPI and Trypan blue stains as well as generate data for the color, PAM, and probe trial.
+
+
 
