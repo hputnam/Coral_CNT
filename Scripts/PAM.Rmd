@@ -24,14 +24,20 @@ sat.intensity <- read.csv("/Users/laurenzane/Desktop/Putnam_Lab/Projects/Coral_C
 
 ```{r}
 
-dark.adaptation.plot <- ggplot(dark.adaptation, aes(x=Time.point, y=Y)) + geom_line() + geom_point() + theme_classic()
-print(dark.adaptation.plot)
+dark.adaptation.plot <- ggplot(dark.adaptation, aes(x=Time.point, y=Fo)) + geom_line() + geom_point() + theme_classic()+  xlab("time (min)")
+print(dark.adaptation.plot) +
 
-sat.intensity.plot <- ggplot(sat.intensity, aes(x=sat.intensity, y=Y)) + geom_line()
-print(sat.intensity.plot)
-combo <- ggarrange(dark.adaptation.plot, sat.intensity, 
+sat.intensity.plot <- ggplot(sat.intensity, aes(x=sat.intensity, y=Fo)) + geom_line() + geom_point()+ xlab("saturation intensity (1-12)") + theme_classic()
+print(sat.intensity.plot) 
+
+pdf(file = "/Users/laurenzane/Desktop/Putnam_Lab/Projects/Coral_CNT/Output/20220802_PAM.pdf",
+    width = 4,
+    height = 4)
+
+combo <- ggarrange(dark.adaptation.plot, sat.intensity.plot, 
           ncol = 2, nrow = 2)
-print(combo)
+dev.off()
+
 
 
 
