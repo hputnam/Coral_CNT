@@ -16,15 +16,23 @@ This is an R Markdown document. Markdown is a simple formatting syntax for autho
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
 ```{r cars}
-summary(cars)
+
+library(ggplot2)
+dark.adaptation <- read.csv("/Users/laurenzane/Desktop/Putnam_Lab/Projects/Coral_CNT/Data/20220802-dark-adaptation.csv")
+sat.intensity <- read.csv("/Users/laurenzane/Desktop/Putnam_Lab/Projects/Coral_CNT/Data/2022-sat-intensity.csv")
 ```
 
-## Including Plots
+```{r}
 
-You can also embed plots, for example:
+dark.adaptation.plot <- ggplot(dark.adaptation, aes(x=Time.point, y=Y)) + geom_line() + geom_point() + theme_classic()
+print(dark.adaptation.plot)
 
-```{r pressure, echo=FALSE}
-plot(pressure)
+sat.intensity.plot <- ggplot(sat.intensity, aes(x=sat.intensity, y=Y)) + geom_line()
+print(sat.intensity.plot)
+combo <- ggarrange(dark.adaptation.plot, sat.intensity, 
+          ncol = 2, nrow = 2)
+print(combo)
+
+
+
 ```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
