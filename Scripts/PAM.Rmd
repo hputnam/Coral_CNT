@@ -36,6 +36,7 @@ pdf(file = "/Users/laurenzane/Desktop/Putnam_Lab/Projects/Coral_CNT/Output/20220
 
 combo <- ggarrange(dark.adaptation.plot, sat.intensity.plot, 
           ncol = 2, nrow = 2)
+print(combo)
 dev.off()
 
 
