@@ -137,7 +137,29 @@ Color.Score_plot <- ggplot(All.Means, aes(x=Treatment, y = Color.Score)) +
 Color.Score_plot
 ggsave(file="../Output/20220803-CNT-Color_Score.pdf", Color.Score_plot, width = 11, height = 6, units = c("in"))
 
+print(All.Means$Color.Score)
 
+
+```
+Color score versus PAM plotting 
+
+```{r}
+
+all_trial_data <- read.csv("../Data/20220803-color-PAM-annexin-trial-datasheet.csv")
+PAM_plot <- ggplot(all_trial_data, aes(x=color_estimate, y = Fo, colour=color_estimate)) +
+  geom_point() +
+  xlab("Treatment") + 
+  ylab("Fo") + # y-axis label and y axis range
+  theme_classic()
+
+PAM_color_score_plot <- ggplot(all_trial_data, aes(x=color.score, y = Fo, colour=color_estimate)) +
+  geom_point() +
+  xlab("Color score") + 
+  ylab("Fo") + # y-axis label and y axis range
+  theme_classic()
+
+print(PAM_plot)
+print(PAM_color_score_plot)
 
 
 ```
